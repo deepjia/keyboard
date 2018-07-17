@@ -289,7 +289,8 @@ class _KeyboardListener(_GenericListener):
         return accept
 
     def listen(self):
-        _os_keyboard.listen(self.direct_callback)
+        pass
+        #_os_keyboard.listen(self.direct_callback)
 
 _listener = _KeyboardListener()
 

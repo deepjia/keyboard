@@ -1,3 +1,4 @@
+This fork won't listen keyboard events, so as to run without 'sudo'.
 
 keyboard
 ========
